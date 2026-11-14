@@ -12,6 +12,7 @@ Recorrido: pestañas del encabezado, botones «Anterior / Siguiente» y avisos m
 
 1. [Análisis y requerimientos](docs/entregables/01_Analisis_y_Requerimientos.pdf)
 2. [Diseño UI/UX y arquitectura Front-End](docs/entregables/02_Diseno_UI_UX_y_Arquitectura.pdf)
+3. [Presentación de avances](docs/presentacion/Avances_Fase1_DayBudget.pptx)
 
 Los PDFs contienen el avance documental del proyecto: problema, perfil de usuario, requisitos, reglas de negocio, historias de usuario, arquitectura, guía de estilos y wireframes.
 
