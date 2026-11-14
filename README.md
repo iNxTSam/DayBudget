@@ -4,7 +4,7 @@ Repositorio de los entregables de documentación de la **Fase 1: Análisis de re
 
 ## Prototipo interactivo
 
-[Ver el prototipo en Figma](https://www.figma.com/proto/f9FXrETATxdnpN6DLIJO3F)
+[Ver el proyecto en Figma](https://www.figma.com/design/f9FXrETATxdnpN6DLIJO3F/DayBudget)
 
 Recorrido: pestañas del encabezado, botones «Anterior / Siguiente» y avisos modales al guardar.
 
