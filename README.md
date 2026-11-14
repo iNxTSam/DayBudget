@@ -2,6 +2,12 @@
 
 Repositorio de los entregables de documentación de la **Fase 1: Análisis de requerimientos y diseño de la solución**.
 
+## Prototipo interactivo
+
+[Ver el prototipo en Figma](https://www.figma.com/proto/f9FXrETATxdnpN6DLIJO3F)
+
+Recorrido: pestañas del encabezado, botones «Anterior / Siguiente» y avisos modales al guardar.
+
 ## Entregables
 
 1. [Análisis y requerimientos](docs/entregables/01_Analisis_y_Requerimientos.pdf)
